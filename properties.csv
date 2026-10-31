@@ -1,0 +1,7 @@
+﻿property_id,name,address,price_per_night,bedrooms,max_guests,amenities,total_units,available_units,status
+AD-101,Seaview Apartment 海景公寓,"12 Marina Road, Beach Town",1280,2,4,WiFi;Air conditioning;Balcony;Ocean view,1,0,available
+AD-1475,Sunny Villa 阳光别墅,"88 Hillcrest Ave, Hillside",2300,3,6,WiFi;Private pool;BBQ;Parking,1,0,available
+AD-203,Cozy Studio 温馨单间,"3 Lantern Lane, Old Town",680,1,2,WiFi;Kitchenette,1,1,available
+AD-301,Garden Cottage 花园小屋,"45 Orchard Lane, Riverside",980,2,3,WiFi;Garden view;Fireplace,2,2,available
+AD-302,Penthouse Suite 顶层套房,"200 Sky Tower, Downtown",3200,3,6,WiFi;Rooftop terrace;Jacuzzi;City view,1,1,available
+AD-311,Sunset Suite 日落套房,"8 Sunset Blvd, Coastline",688,1,2,WiFi;Ocean view;Balcony,1,1,available

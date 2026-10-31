@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "property_id": "AD-101",
+      "name": "Seaview Apartment 海景公寓",
+      "address": "12 Marina Road, Beach Town",
+      "price_per_night": 1280,
+      "bedrooms": 2,
+      "max_guests": 4,
+      "amenities": ["WiFi", "Air conditioning", "Balcony", "Ocean view"],
+      "status": "available"
+    },
+    {
+      "property_id": "AD-1475",
+      "name": "Sunny Villa 阳光别墅",
+      "address": "88 Hillcrest Ave, Hillside",
+      "price_per_night": 2300,
+      "bedrooms": 3,
+      "max_guests": 6,
+      "amenities": ["WiFi", "Private pool", "BBQ", "Parking"],
+      "status": "available"
+    },
+    {
+      "property_id": "AD-203",
+      "name": "Cozy Studio 温馨单间",
+      "address": "3 Lantern Lane, Old Town",
+      "price_per_night": 680,
+      "bedrooms": 1,
+      "max_guests": 2,
+      "amenities": ["WiFi", "Kitchenette"],
+      "status": "occupied"
+    }
+  ]
+}

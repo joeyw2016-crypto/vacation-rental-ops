@@ -1,0 +1,9 @@
+{
+  "book_modify": ["改", "修改", "变更", "reschedule", "change", "modify", "edit", "rebook"],
+  "book_cancel": ["取消", "退订", "cancel", "refund", "cancellation"],
+  "booking": ["订", "预订", "预定", "预约", "book", "reserve", "reservation", "rent"],
+  "complaint": ["投诉", "漏水", "坏了", "脏", "差评", "吵", "没热水", "broken", "leak", "complaint", "noisy", "dirty", "no hot water", "maintenance", "not working", "issue", "problem"],
+  "availability": ["还有没有房间", "还有房吗", "有房吗", "空房", "有房间吗", "现在有没有房", "available", "vacancy", "availability", "any room", "rooms available", "is there a room", "do you have a room", "rooms", "places", "free", "left", "房间", "房源", "有空", "还有"],
+  "status_query": ["进度", "什么时候", "到哪了", "开始", "status", "when", "update", "check", "where is", "arrive", "start"],
+  "other": []
+}
